@@ -1,7 +1,10 @@
 # Tic-Tac-Toe
 Single click for player 1.
+
 Double Click for Player 2.
+
 This project uses excessive use of jQuery.
+
 
 # Status
 Not completed
