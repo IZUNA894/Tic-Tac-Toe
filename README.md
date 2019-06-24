@@ -10,8 +10,8 @@ This project uses excessive use of jQuery.
 Not completed
 # Reamining
 1. Add info and instruction for players.
-2. Algorithim of winning patter.
+2. Algorithim of winning pattern.
 3. Congratulation Message at the end of game.
 
 # Contribution
-Do contribute freely.
+Feel free to contribute.
